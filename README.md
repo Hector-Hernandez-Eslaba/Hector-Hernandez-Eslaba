@@ -8,9 +8,12 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-Desarrollador web junior con conocimientos en lenguajes de programación.
 
-Experiencia en el sector de WISP e ISP, incluyendo la configuración de equipos como Mikrotik, Huawei, Vsol, ZTE, Tp-Link, Mimosa, Ubiquiti y Cambium.
+Desarrollador web junior con habilidades en diversos lenguajes de programación.
+
+Poseo experiencia en el sector de WISP e ISP, que incluye la configuración de dispositivos como Mikrotik, Huawei, Vsol, ZTE, Tp-Link, Mimosa, Ubiquiti y Cambium.
+
+Además, tengo experiencia en el diseño y despliegue de redes FTTH.
 
 <br><br>
 
